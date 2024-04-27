@@ -46,7 +46,7 @@ function App() {
   return (
     <>
       <Navbar />
-      <div className="container mx-auto my-5 rounded-xl p-5 bg-slate-400 text-black min-h-[80vh]">
+      <div className="container mx-auto my-5 rounded-xl p-5 bg-red-400 text-black min-h-[80vh]">
         <h1 className="text-xl hover:text-slate-800 font-bold my-5 ">
           ToDo List in React
         </h1>
