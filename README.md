@@ -1,6 +1,6 @@
 # React + Vite
 
-<img src="Capture1.PNG>
+<img src="Capture1.PNG">
 
 # React Todo App
 
