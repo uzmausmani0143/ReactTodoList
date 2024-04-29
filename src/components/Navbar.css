@@ -1,0 +1,28 @@
+@keyframes rotate {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+  
+  @keyframes changeColor {
+    0% {
+      color: #e8f806; /* Start color */
+    }
+    50% {
+      color: #ff0000; /* Mid color */
+    }
+    75%{
+        color:rgb(42, 42, 248);
+    }
+    100% {
+      color: #00ff00; /* End color */
+    }
+  }
+  
+  .icon-animation {
+    animation: rotate 5s linear infinite, changeColor 5s linear infinite; /* Apply both animations */
+  }
+  
