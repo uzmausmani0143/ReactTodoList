@@ -1,10 +1,8 @@
-# React + Vite
-
-<img src="Capture1.PNG">
-
 # React Todo App
 
 This is a simple Todo application built with React.js and Tailwind CSS. It allows users to add, edit, and delete tasks, as well as mark them as completed.
+
+<img src="Capture1.PNG">
 
 ## Features
 
